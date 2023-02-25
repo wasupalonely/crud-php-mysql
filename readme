@@ -1,0 +1,4 @@
+## Configuraciones
+
+Tener xampp, y activar lo pertinente para correr un servidor local de php
+No agregaré .env ya que esta parte se corre localmente 
